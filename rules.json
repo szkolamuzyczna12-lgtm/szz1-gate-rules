@@ -1,8 +1,46 @@
-[
-  {
-    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw {Dummy} Pelna na {Brame VIRTUAL014}",
-    "addedBy": "rasamson",
-    "addedAt": "2026-08-08T19:00:02.422Z"
-  }
-]
+{
+  "config": {
+    "layout": {
+      "padding": "3mm",
+      "fontSize_title": "22px",
+      "fontSize_plate": "18px",
+      "fontSize_action": "28px",
+      "margin_section": "1.5mm",
+      "fontSize_vrid": "12px",
+      "fontSize_safety": "10px"
+    },
+    "safety": {
+      "pl": {
+        "s1": "🚫 ZAKAZ ZAWRACANIA NA PLACU MANEWROWYM • DROGA JEDNOKIERUNKOWA",
+        "s2": "👷 NA PLACU ZAWSZE NOS BUTY OCHRONNE ORAZ KAMIZELKĘ",
+        "s3": "🚗 MAX PRĘDKOŚĆ 15 km/h • ZACHOWAJ BEZPIECZEŃSTWO"
+      },
+      "en": {
+        "s1": "🚫 NO U-TURNS IN THE MANOEUVRING AREA • ONE-WAY ROAD",
+        "s2": "👷 ALWAYS WEAR SAFETY BOOTS AND HIGH-VIS VEST IN THE YARD",
+        "s3": "🚗 MAX SPEED 15 km/h • STAY SAFE"
+      },
+      "de": {
+        "s1": "🚫 WENDEN AUF DEM RANGIERPLATZ VERBOTEN • EINBAHNSTRASSE",
+        "s2": "👷 AUF DEM GELÄNDE STETS SICHERHEITSSCHUHE UND WARNWESTE TRAGEN",
+        "s3": "🚗 MAX GESCHWINDIGKEIT 15 km/h • SICHERHEIT GEHT VOR"
+      },
+      "ua": {
+        "s1": "🚫 РОЗВОРОТ НА МАНЕВРОВОМУ МАЙДАНЧИКУ ЗАБОРОНЕНО • ДОРОГА ОДНОСТОРОННЬОГО РУХУ",
+        "s2": "👷 НА МАЙДАНЧИКУ ЗАВЖДИ НОСІТЬ ЗАХИСНЕ ВЗУТТЯ ТА ЖИЛЕТ",
+        "s3": "🚗 МАКС. ШВИДКІСТЬ 15 км/год • БЕРЕЖІТЬ СЕБЕ"
+      },
+      "ru": {
+        "s1": "🚫 РАЗВОРОТ НА МАНЁВРЕННОЙ ПЛОЩАДКЕ ЗАПРЕЩЁН • ДОРОГА С ОДНОСТОРОННИМ ДВИЖЕНИЕМ",
+        "s2": "👷 НА ПЛОЩАДКЕ ВСЕГДА НОСИТЕ ЗАЩИТНУЮ ОБУВЬ И ЖИЛЕТ",
+        "s3": "🚗 МАКС. СКОРОСТЬ 15 км/ч • СОБЛЮДАЙТЕ БЕЗОПАСНОСТЬ"
+      },
+      "ro": {
+        "s1": "🚫 ÎNTOARCEREA ÎN ZONA DE MANEVRĂ ESTE INTERZISĂ • DRUM CU SENS UNIC",
+        "s2": "👷 PE PLATFORMĂ PURTAȚI ÎNTOTDEAUNA BOCANCI DE PROTECȚIE ȘI VESTĂ",
+        "s3": "🚗 VITEZĂ MAX 15 km/h • FIȚI ÎN SIGURANȚĂ"
+      }
+    }
+  },
+  "rules": []
+}
