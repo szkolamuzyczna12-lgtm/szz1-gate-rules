@@ -1,7 +1,7 @@
 [
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw Dummy Pelna na Brame VIRTUAL014",
+    "message": "Zestaw {Dummy} Pelna na {Brame VIRTUAL014}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-08T19:00:02.422Z"
   }
