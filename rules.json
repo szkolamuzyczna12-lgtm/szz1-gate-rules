@@ -4,5 +4,11 @@
     "message": "zestaw dummy brama 14 - pusty",
     "addedBy": "rasamson",
     "addedAt": "2026-08-08T22:39:40.603Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-08T23:33:47.341Z"
   }
 ]
