@@ -73,74 +73,74 @@
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw {tp} zrzuci pustą na {tl}",
+    "message": "Zestaw {tp} zrzuci pustą na {tl} i zabierze pustą z {rl}",
     "addedBy": "rasamson",
-    "addedAt": "2026-08-09T00:18:50.696Z"
+    "addedAt": "2026-08-09T00:20:32.953Z"
   }
 ]
