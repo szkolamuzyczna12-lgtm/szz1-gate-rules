@@ -286,5 +286,77 @@
     "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioningIntermodal\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T14:14:20.651Z"
   }
 ]
