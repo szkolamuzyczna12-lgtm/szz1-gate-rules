@@ -214,5 +214,77 @@
     "message": "Zestaw {tp} Zrzuca pustą na {rl} i zabiera pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T01:50:57.470Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"TransfersInitialPlacement\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} zrzut pełnej {rl} zabierze pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-26T06:20:16.497Z"
   }
 ]
