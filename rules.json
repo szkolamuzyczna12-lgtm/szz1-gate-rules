@@ -430,5 +430,77 @@
     "message": "Zestaw {tp} pobiera pustą {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Serwis *ZS300NW*",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T08:53:57.651Z"
   }
 ]
