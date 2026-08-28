@@ -358,5 +358,77 @@
     "message": "Zestaw {tp} Zrzuca pełną na {rl} i zabiera pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-26T14:14:20.651Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
+  },
+  {
+    "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Live\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} pobiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-08-28T04:36:43.763Z"
   }
 ]
