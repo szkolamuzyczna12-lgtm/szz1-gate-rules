@@ -505,74 +505,74 @@
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Bus *ZGY43700* na Bramę *26* - Pusty",
+    "message": "X",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-13T12:12:18.855Z"
+    "addedAt": "2026-09-18T08:09:31.774Z"
   }
 ]
