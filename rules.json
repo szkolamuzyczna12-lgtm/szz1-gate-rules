@@ -648,75 +648,111 @@
     "addedAt": "2026-09-25T01:52:25.003Z"
   },
   {
-    "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "{tp} wyjazd na pusto",
+    "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
+  },
+  {
+    "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "{tp} wyjezdza na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
     "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "{tp} wyjazd na pusto",
+    "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
-    "addedAt": "2026-09-25T01:56:58.270Z"
+    "addedAt": "2026-09-25T02:05:10.304Z"
+  },
+  {
+    "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
+    "message": "{tp} wyjezdza na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-25T02:05:10.304Z"
+  },
+  {
+    "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
+    "message": "{tp} wyjezdza na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-25T02:05:10.304Z"
+  },
+  {
+    "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\"}",
+    "message": "{tp} wyjezdza na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-25T02:05:10.304Z"
+  },
+  {
+    "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\"}",
+    "message": "{tp} wyjezdza na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-25T02:05:10.304Z"
+  },
+  {
+    "key": "{\"tAcc\":\"StemLegBobTail\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\"}",
+    "message": "{tp} wyjezdza na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-25T02:05:10.304Z"
   }
 ]
