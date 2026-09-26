@@ -898,5 +898,113 @@
     "message": "Zestaw {tp} Zrzuca pustą {tl} i wyjazd",
     "addedBy": "rasamson",
     "addedAt": "2026-09-26T01:28:11.573Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} Zrzuca pustą na {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-09-26T01:42:28.950Z"
   }
 ]
