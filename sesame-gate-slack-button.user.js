@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SZZ1 Sesame Gate - Slack Button
 // @namespace    amazon-szz1-gate
-// @version      11.32
+// @version      11.33
 // @description  Auto-fill multi-VRID + GH reguły solo/bobtail + bez cache + token + ↻
 // @author       Radek
 // @match        https://trans-logistics-eu.amazon.com/yms/sesameGateConsole*
