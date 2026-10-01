@@ -684,12 +684,6 @@
     "addedAt": "2026-09-25T02:05:10.304Z"
   },
   {
-    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
-    "message": "{tp} wyjezdza na pusto",
-    "addedBy": "rasamson",
-    "addedAt": "2026-09-25T02:06:56.527Z"
-  },
-  {
     "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
     "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
@@ -757,18 +751,6 @@
   },
   {
     "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "{tp} wyjezdza na pusto",
-    "addedBy": "rasamson",
-    "addedAt": "2026-09-25T02:06:56.527Z"
-  },
-  {
-    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
-    "message": "{tp} wyjezdza na pusto",
-    "addedBy": "rasamson",
-    "addedAt": "2026-09-25T02:06:56.527Z"
-  },
-  {
-    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
     "message": "{tp} wyjezdza na pusto",
     "addedBy": "rasamson",
     "addedAt": "2026-09-25T02:06:56.527Z"
@@ -1204,5 +1186,113 @@
     "message": "Zestaw {tp} zrzuci pełną {tl} i wyjazd",
     "addedBy": "rasamson",
     "addedAt": "2026-10-01T18:49:19.604Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
+  },
+  {
+    "key": "{\"tAcc\":\"BobtailMovementAnnotation\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersCartsPalletsMixed\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} Zrzuca wozki {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-01T18:57:07.981Z"
   }
 ]
