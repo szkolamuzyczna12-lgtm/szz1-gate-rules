@@ -1510,5 +1510,113 @@
     "message": "Zestaw 𝐏𝐙𝟕𝐉𝟎𝟔𝟏 Zrzuca puszki Pole 𝟐𝟐 i wyjazd - rasamson",
     "addedBy": "rasamson",
     "addedAt": "2026-10-02T19:33:15.662Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\"}",
+    "message": "Zestaw {tp} pustą na pusto",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-02T20:37:22.471Z"
   }
 ]
