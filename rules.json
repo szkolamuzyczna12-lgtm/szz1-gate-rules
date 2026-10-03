@@ -1906,5 +1906,113 @@
     "message": "Ciągnik {tp} pobiera Toty {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-10-03T19:18:30.437Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} pobór pustej {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T20:16:18.749Z"
   }
 ]
