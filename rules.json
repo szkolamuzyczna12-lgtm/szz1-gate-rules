@@ -954,24 +954,6 @@
     "addedAt": "2026-09-28T00:46:24.663Z"
   },
   {
-    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
-    "message": "Zestaw {tp} zrzuci pełną {rl} i zabierze pustą z {tl}",
-    "addedBy": "rasamson",
-    "addedAt": "2026-09-28T00:46:24.663Z"
-  },
-  {
-    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
-    "message": "Zestaw {tp} zrzuci pełną {rl} i zabierze pustą z {tl}",
-    "addedBy": "rasamson",
-    "addedAt": "2026-09-28T00:46:24.663Z"
-  },
-  {
-    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
-    "message": "Zestaw {tp} zrzuci pełną {rl} i zabierze pustą z {tl}",
-    "addedBy": "rasamson",
-    "addedAt": "2026-09-28T00:46:24.663Z"
-  },
-  {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"FBA_BLP_Inbound\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\"}",
     "message": "Zestaw {tp} zrzuci pełną {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
@@ -1708,5 +1690,113 @@
     "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
     "addedAt": "2026-10-03T16:52:16.076Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\"}",
+    "message": "Ciągnik {tp} po pustą {tl} i wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-03T18:08:49.795Z"
   }
 ]
