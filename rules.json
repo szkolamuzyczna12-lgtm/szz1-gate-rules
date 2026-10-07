@@ -1279,111 +1279,147 @@
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"FleetManagementEquipmentRepositioning\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd - kiero 1 | KTM Infrastruktura - rasamson",
+    "message": "Zestaw 𝐖𝐆𝐌𝟑𝟗𝟔𝟖𝐔 (𝐕𝐒𝟒𝟓𝟑𝟎𝟑𝟗) Zrzuca pustą i zabiera pustą z {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T19:16:43.085Z"
+    "addedAt": "2026-10-02T19:16:43.085Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:56:16.382Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"FleetManagementEquipmentRepositioning\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
