@@ -1765,111 +1765,147 @@
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw PZ7J061 Zrzuca puszki {tl} i wyjazd",
+    "message": "Zestaw {tl} Zrzuca puszki {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-03T18:47:25.251Z"
+    "addedAt": "2026-10-03T18:47:25.251Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T18:11:13.742Z"
   },
   {
     "key": "{\"tAcc\":\"TransfersTote\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
