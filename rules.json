@@ -1,99 +1,99 @@
 [
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"OTHER\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"OTHER\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl} oko",
+    "message": "Zestaw {tp} zrzuci pełną na {rl} i zabierze pustą z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-08-09T00:08:06.242Z",
     "editedBy": "rasamson",
-    "editedAt": "2026-10-07T19:22:12.421Z"
+    "editedAt": "2026-10-07T19:22:54.414Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"Pickup\",\"trVrid\":\"EMPTY_PICKUP\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
