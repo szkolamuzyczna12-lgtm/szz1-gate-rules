@@ -1513,111 +1513,147 @@
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"TrailerPoolAdjustment\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\"}",
-    "message": "Zestaw 𝐏𝐘𝟔𝟔𝟒𝟕𝟐 zabierze pustą Pole 𝟕𝟒 i wyjazd",
+    "message": "Zestaw {tp} zabierze pustą Pole {tl} i wyjazd",
     "addedBy": "rasamson",
-    "addedAt": "2026-10-02T22:31:52.913Z"
+    "addedAt": "2026-10-02T22:31:52.913Z",
+    "editedBy": "rasamson",
+    "editedAt": "2026-10-07T17:58:55.080Z"
   },
   {
     "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\"}",
