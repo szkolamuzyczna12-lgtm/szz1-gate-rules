@@ -2146,5 +2146,113 @@
     "message": "Ciągnik {tp} pobiera pustą {tl} - wyjazd",
     "addedBy": "rasamson",
     "addedAt": "2026-10-03T20:17:52.519Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"Pickup\",\"tVrid\":\"EMPTY_PICKUP\",\"trAcc\":\"ATSWarehouseTransfersIntermodal\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pełną {rl} zabiera pustą {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-09T16:14:34.329Z"
   }
 ]
