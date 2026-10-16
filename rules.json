@@ -2362,5 +2362,113 @@
     "message": "Zestaw {tp} wjazd na Yard - CZEKA {tl} - rasamson",
     "addedBy": "rasamson",
     "addedAt": "2026-10-16T17:21:14.063Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
+  },
+  {
+    "key": "{\"tAcc\":\"TransfersInitialPlacement\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} zabiera pełną z {tl} - wyjazd",
+    "addedBy": "rasamson",
+    "addedAt": "2026-10-16T19:25:40.245Z"
   }
 ]
