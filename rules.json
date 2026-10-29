@@ -2692,5 +2692,113 @@
     "message": "Box na {tl}",
     "addedBy": "michazal",
     "addedAt": "2026-10-29T13:37:56.774Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
+  },
+  {
+    "key": "{\"tAcc\":\"none\",\"tRea\":\"none\",\"tVrid\":\"none\",\"trAcc\":\"ATSWarehouseTransfers\",\"trRea\":\"Live\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} (PO2YR35) na {tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T13:41:10.190Z"
   }
 ]
