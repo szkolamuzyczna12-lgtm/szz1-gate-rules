@@ -2470,5 +2470,113 @@
     "message": "Zestaw {tp} wbity na {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-10-16T19:38:36.103Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPalletsWHT\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Ciągnik {tp} Zrzuca pełną (palety) {rl} i zabiera z{tl}",
+    "addedBy": "michazal",
+    "addedAt": "2026-10-29T08:53:23.219Z"
   }
 ]
