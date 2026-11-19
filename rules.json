@@ -2946,24 +2946,6 @@
     "addedAt": "2026-11-18T21:01:48.881Z"
   },
   {
-    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\",\"sb\":\"0\"}",
-    "message": "Zestaw {tp} zzuca pełną (pallety) na {rl} i zabiera pełną z {tl}",
-    "addedBy": "rasamson",
-    "addedAt": "2026-11-18T21:01:48.881Z"
-  },
-  {
-    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\",\"sb\":\"0\"}",
-    "message": "Zestaw {tp} zzuca pełną (pallety) na {rl} i zabiera pełną z {tl}",
-    "addedBy": "rasamson",
-    "addedAt": "2026-11-18T21:01:48.881Z"
-  },
-  {
-    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\",\"sb\":\"0\"}",
-    "message": "Zestaw {tp} zzuca pełną (pallety) na {rl} i zabiera pełną z {tl}",
-    "addedBy": "rasamson",
-    "addedAt": "2026-11-18T21:01:48.881Z"
-  },
-  {
     "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"TransfersEmptyPallets\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
     "message": "Zestaw {tp} zzuca pełną (pallety) na {rl} i zabiera pełną z {tl}",
     "addedBy": "rasamson",
@@ -2980,5 +2962,113 @@
     "message": "Zestaw {tp} zzuca pełną (pallety) na {rl} i zabiera pełną z {tl}",
     "addedBy": "rasamson",
     "addedAt": "2026-11-18T21:01:48.881Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"POLE\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"POLE\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"DOCK\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"DOCK\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"diff\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"same\",\"tLoc\":\"VS\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"POLE\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"DOCK\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"none\",\"trRea\":\"none\",\"trVrid\":\"none\",\"loc\":\"solo\",\"tLoc\":\"VS\",\"rLoc\":\"none\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"POLE\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"DOCK\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
+  },
+  {
+    "key": "{\"tAcc\":\"ATSOutbound\",\"tRea\":\"Pickup\",\"tVrid\":\"VRID\",\"trAcc\":\"BobtailMovementAnnotation\",\"trRea\":\"Dropoff\",\"trVrid\":\"VRID\",\"loc\":\"solo\",\"tLoc\":\"none\",\"rLoc\":\"VS\",\"sb\":\"0\"}",
+    "message": "Zestaw {tp} Zrzuca pustą {rl} i zabieral pełną {tl}",
+    "addedBy": "rasamson",
+    "addedAt": "2026-11-19T21:47:59.211Z"
   }
 ]
